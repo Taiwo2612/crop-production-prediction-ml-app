@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Large ML files
+*.pkl
+*.joblib
+*.h5
+*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
